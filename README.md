@@ -4,6 +4,6 @@ Simple Robot Framework example to surf a number of web pages and validate them u
 
 See the command line in file BBC.Robot to run these tests.
 
-They require a Python installation with the robot framework library installed.
+They require a Python installation with the Robot Framework library installed.
 
 
